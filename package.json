@@ -1,0 +1,17 @@
+{
+  "name": "tf-electron",
+  "version": "0.1.0",
+  "description": "Tensorflow JS examples with Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vatsa Patel <vatsapate13@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.11.2",
+    "electron": "^2.0.8",
+    "vega-embed": "^3.14.0"
+  }
+}
